@@ -1,16 +1,41 @@
-## Hi there 👋
+# Hi there 👋 I'm Aleena
 
-<!--
-**aleena14003-cyber/aleena14003-cyber** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Final Year **B.Tech Student**  
+📍 **Viswajyothi College of Engineering and Technology, Vazhakulam**  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔥 About Me
+- 💡 Passionate about technology, problem-solving, and continuous learning  
+
+- 🤝 Open to collaborating on **academic and tech projects**
+
+---
+
+### 🛠️ Skills & Technologies
+| Domain | Skills |
+|--------|--------|
+| Programming | C, Python (basics) |
+| Databases | SQL*Plus |
+| Data Analytics | Power BI |
+
+
+---
+
+### 🚀 What I'm Working On
+- I’m currently working on enhancing my programming skills and building real-world projects.   
+
+
+---
+
+### 📬 Connect With Me
+📧 **Email:** *(aleena14003@gmail.com)*   
+🔗 **LinkedIn:** *(www.linkedin.com/in/aleena-james-b7811a396)*   
+
+---
+
+### ⚡ Fun Fact
+I believe learning never stops — every day is an opportunity to be better ✨
+
+---
+⭐ *Thanks for visiting my profile! Feel free to explore my repositories and drop a ⭐ if you like them.*
